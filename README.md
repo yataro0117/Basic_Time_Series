@@ -12,12 +12,7 @@ referenceフォルダ内の波形を基準にtestフォルダ内の各波形と�
 
 ## デモ（Optional）
 
-![スクリーンショットなど](path/to/image.png)
+[脳波のクラス分類(level4)]![Screenshot from 2025-05-22 14-35-37](https://github.com/user-attachments/assets/9c1ea79a-67f9-4cb2-8f6b-9ecd177a5488)
 
-## インストール方法（Installation）
 
-```bash
-git clone https://github.com/ユーザー名/リポジトリ名.git
-cd リポジトリ名
-pip install -r requirements.txt
 
